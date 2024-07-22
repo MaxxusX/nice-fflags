@@ -4,7 +4,7 @@
 some nice little fflags i use
 most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags) and the [Bloxstrap Discord server](https://discord.gg/nKjV3mGq6R)
 
-## Exclusive fullscreen
+## Exclusive Fullscreen
 
 ```json
 {
@@ -12,7 +12,7 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
 }
 ```
 
-## Enable ability to hide GUIs (if in maxxus's group)
+## GUI Hiding
 
 | Key combination  | Action                                                                    |
 | ---------------- | ------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
 }
 ```
 
-## Give maxxus the verified badge
+## Verify Maxxus
 
 ```json
 {
@@ -35,7 +35,7 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
 }
 ```
 
-## Advanced graphics quality selector
+## Advanced Graphics Quality Selector
 
 ```json
 {
@@ -44,7 +44,7 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
 }
 ```
 
-## Force `Future` lighting in all games
+## Force `Future` Lighting in All Games
 
 ```json
 {
@@ -52,7 +52,7 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
 }
 ```
 
-## Preserve rendering quality with display scaling
+## Preserve Rendering Quality w/ Display Scaling
 
 ```json
 {
@@ -60,7 +60,7 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
 }
 ```
 
-## Extend `Max Zoom Distance` in games with default zoom limits
+## Extend `Max Zoom Distance` in Games With Default Zoom Limits
 
 ```json
 {
@@ -68,7 +68,7 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
 }
 ```
 
-## Disable full-screen titlebar
+## Disable Fullscreen Titlebar
 
 ```json
 {
@@ -76,7 +76,7 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
 }
 ```
 
-## Disable captures keybind
+## Disable `Captures` Keybind
 
 ```json
 {
@@ -100,7 +100,7 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
 }
 ```
 
-## Disable telemetry
+## Disable Telemetry
 
 ```json
 {
