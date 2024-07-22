@@ -104,26 +104,26 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
 
 ```json
 {
+  "DFFlagClientBaseNetworkMetrics": "False",
+  "DFFlagEnableLightstepReporting2": "False",
   "DFIntClientLightingTechnologyChangedTelemetryHundredthsPercent": "0",
+  "DFIntCrashUploadToBacktracePercentage": "0",
+  "DFIntLightstepHTTPTransportHundredthsPercent2": "0",
+  "DFStringAltHttpPointsReporterUrl": "null",
+  "DFStringAltTelegrafAddress": "127.0.0.1",
+  "DFStringAltTelegrafHTTPTransportUrl": "null",
+  "DFStringAnalyticsEventStreamUrlEndpoint": "null",
   "DFStringCrashUploadToBacktraceBaseUrl": "null",
   "DFStringCrashUploadToBacktraceMacPlayerToken": "null",
   "DFStringCrashUploadToBacktraceWindowsPlayerToken": "null",
-  "GoogleAnalyticsAccountPropertyID": "null",
-  "GoogleAnalyticsAccountPropertyIDPlayer": "null",
-  "FStringCoreScriptBacktraceErrorUploadToken": "null",
-  "FStringGamesUrlPath": "/games/",
-  "DFFlagClientBaseNetworkMetrics": "False",
-  "DFStringRobloxAnalyticsURL": "null",
-  "DFStringTelegrafHTTPTransportUrl": "null",
-  "DFStringAltTelegrafHTTPTransportUrl": "null",
-  "DFStringTelegrafAddress": "127.0.0.1",
-  "DFStringAltTelegrafAddress": "127.0.0.1",
-  "DFStringTelemetryV2Url": "null",
-  "DFFlagEnableLightstepReporting2": "False",
-  "DFIntLightstepHTTPTransportHundredthsPercent2": "0",
+  "DFStringHttpPointsReporterUrl": "null",
   "DFStringLightstepHTTPTransportUrlHost": "null",
   "DFStringLightstepHTTPTransportUrlPath": "null",
   "DFStringLightstepToken": "null",
+  "DFStringRobloxAnalyticsURL": "null",
+  "DFStringTelegrafAddress": "127.0.0.1",
+  "DFStringTelegrafHTTPTransportUrl": "null",
+  "DFStringTelemetryV2Url": "null",
   "FFlagDebugDisableTelemetryEphemeralCounter": "True",
   "FFlagDebugDisableTelemetryEphemeralStat": "True",
   "FFlagDebugDisableTelemetryEventIngest": "True",
@@ -131,9 +131,10 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
   "FFlagDebugDisableTelemetryV2Counter": "True",
   "FFlagDebugDisableTelemetryV2Event": "True",
   "FFlagDebugDisableTelemetryV2Stat": "True",
-  "DFStringHttpPointsReporterUrl": "null",
-  "DFStringAltHttpPointsReporterUrl": "null",
-  "DFStringAnalyticsEventStreamUrlEndpoint": "null"
+  "FStringCoreScriptBacktraceErrorUploadToken": "null",
+  "FStringGamesUrlPath": "/games/",
+  "GoogleAnalyticsAccountPropertyID": "null",
+  "GoogleAnalyticsAccountPropertyIDPlayer": "null"
 }
 ```
 
