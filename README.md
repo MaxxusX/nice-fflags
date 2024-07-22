@@ -24,7 +24,7 @@ some nice little fflags i use
 }
 ```
 
-# Advanced graphics quality selector
+## Advanced graphics quality selector
 ```json
 {
   "FFlagFixGraphicsQuality": "True"
@@ -73,7 +73,7 @@ some nice little fflags i use
 }
 ```
 
-# Force Direct3D 11
+## Force Direct3D 11
 ```json
 {
     "FFlagDebugGraphicsPreferD3D11": "True"
