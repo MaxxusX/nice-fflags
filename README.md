@@ -1,3 +1,4 @@
+
 # Nice FFlags
 
 some nice little fflags i use
@@ -129,67 +130,19 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
 ```json
 {
   "FFlagReconnectDisabled": "True",
-  "FStringReconnectDisabledReason": "you've been disconnected uwu"
+  "FStringReconnectDisabledReason": "u got disconnected uwu"
 }
 ```
 
-## placeholder
+## Hide `Beta` Badge
 
 ```json
-
+{
+  "FFlagVoiceBetaBadge": "False",
+  "FFlagTopBarUseNewBadge": "False",
+  "FFlagEnableBetaBadgeLearnMore": "False",
+  "FFlagBetaBadgeLearnMoreLinkFormview": "False",
+  "FFlagControlBetaBadgeWithGuac": "False",
+  "FStringVoiceBetaBadgeLearnMoreLink": "null"
+}
 ```
-
-## placeholder
-
-```json
-
-```
-
-## placeholder
-
-```json
-
-```
-
-## placeholder
-
-```json
-
-```
-
-## placeholder
-
-```json
-
-```
-
-## placeholder
-
-```json
-
-```
-
-## placeholder
-
-```json
-
-```
-
-## placeholder
-
-```json
-
-```
-
-## placeholder
-
-```json
-
-```
-
-## placeholder
-
-```json
-
-```
-
