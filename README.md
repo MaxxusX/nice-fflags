@@ -104,13 +104,36 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
 
 ```json
 {
+  "DFIntClientLightingTechnologyChangedTelemetryHundredthsPercent": 0,
+  "DFStringCrashUploadToBacktraceBaseUrl": "null",
+  "DFStringCrashUploadToBacktraceMacPlayerToken": "null",
+  "DFStringCrashUploadToBacktraceWindowsPlayerToken": "null",
+  "GoogleAnalyticsAccountPropertyID": "null",
+  "GoogleAnalyticsAccountPropertyIDPlayer": "null",
+  "FStringCoreScriptBacktraceErrorUploadToken": "null",
+  "FStringGamesUrlPath": "/games/",
+  "DFFlagClientBaseNetworkMetrics": "False",
+  "DFStringRobloxAnalyticsURL": "null",
+  "DFStringTelegrafHTTPTransportUrl": "null",
+  "DFStringAltTelegrafHTTPTransportUrl": "null",
+  "DFStringTelegrafAddress": "127.0.0.1",
+  "DFStringAltTelegrafAddress": "127.0.0.1",
+  "DFStringTelemetryV2Url": "null",
+  "DFFlagEnableLightstepReporting2": "False",
+  "DFIntLightstepHTTPTransportHundredthsPercent2": 0,
+  "DFStringLightstepHTTPTransportUrlHost": "null",
+  "DFStringLightstepHTTPTransportUrlPath": "null",
+  "DFStringLightstepToken": "null",
   "FFlagDebugDisableTelemetryEphemeralCounter": "True",
   "FFlagDebugDisableTelemetryEphemeralStat": "True",
   "FFlagDebugDisableTelemetryEventIngest": "True",
   "FFlagDebugDisableTelemetryPoint": "True",
   "FFlagDebugDisableTelemetryV2Counter": "True",
   "FFlagDebugDisableTelemetryV2Event": "True",
-  "FFlagDebugDisableTelemetryV2Stat": "True"
+  "FFlagDebugDisableTelemetryV2Stat": "True",
+  "DFStringHttpPointsReporterUrl": "null",
+  "DFStringAltHttpPointsReporterUrl": "null",
+  "DFStringAnalyticsEventStreamUrlEndpoint": "null"
 }
 ```
 
