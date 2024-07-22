@@ -117,7 +117,10 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
 
 ```json
 {
-  "FFlagAdServiceEnabled": "False"
+  "FFlagAdServiceEnabled": "False",
+  "FFlagEnableAdsAPI": "False",
+  "FStringImmersiveAdsUniverseWhitelist": "0",
+  "FFlagImmersiveAdsWhitelistDisabled": "False"
 }
 ```
 
