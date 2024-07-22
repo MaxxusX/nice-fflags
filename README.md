@@ -104,7 +104,7 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
 
 ```json
 {
-  "DFIntClientLightingTechnologyChangedTelemetryHundredthsPercent": 0,
+  "DFIntClientLightingTechnologyChangedTelemetryHundredthsPercent": "0",
   "DFStringCrashUploadToBacktraceBaseUrl": "null",
   "DFStringCrashUploadToBacktraceMacPlayerToken": "null",
   "DFStringCrashUploadToBacktraceWindowsPlayerToken": "null",
@@ -120,7 +120,7 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
   "DFStringAltTelegrafAddress": "127.0.0.1",
   "DFStringTelemetryV2Url": "null",
   "DFFlagEnableLightstepReporting2": "False",
-  "DFIntLightstepHTTPTransportHundredthsPercent2": 0,
+  "DFIntLightstepHTTPTransportHundredthsPercent2": "0",
   "DFStringLightstepHTTPTransportUrlHost": "null",
   "DFStringLightstepHTTPTransportUrlPath": "null",
   "DFStringLightstepToken": "null",
