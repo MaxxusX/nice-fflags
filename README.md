@@ -1,16 +1,6 @@
-
 # Nice FFlags
 
 some nice little fflags i use
-most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags) and the [Bloxstrap Discord server](https://discord.gg/nKjV3mGq6R)
-
-## Exclusive Fullscreen
-
-```json
-{
-  "FFlagHandleAltEnterFullscreenManually": "False"
-}
-```
 
 ## GUI Hiding
 
@@ -35,6 +25,7 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
 }
 ```
 
+<!-- TODO: apparently this no longer works. check later
 ## Advanced Graphics Quality Selector
 
 ```json
@@ -43,6 +34,7 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
   "FFlagFixGraphicsQuality": "True"
 }
 ```
+-->
 
 ## Force `Future` Lighting in All Games
 
@@ -110,9 +102,11 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
   "DFIntCrashUploadToBacktracePercentage": "0",
   "DFIntLightstepHTTPTransportHundredthsPercent2": "0",
   "DFStringAltHttpPointsReporterUrl": "null",
-  "DFStringAltTelegrafAddress": "127.0.0.1",
+  "DFStringAltTelegrafAddress": "0.0.0.0",
   "DFStringAltTelegrafHTTPTransportUrl": "null",
   "DFStringAnalyticsEventStreamUrlEndpoint": "null",
+  "DFStringAnalyticsNS1BeaconConfig": "null",
+  "DFStringCrashpadUploadToBacktraceAndroidPlayerToken": "null",
   "DFStringCrashUploadToBacktraceBaseUrl": "null",
   "DFStringCrashUploadToBacktraceMacPlayerToken": "null",
   "DFStringCrashUploadToBacktraceWindowsPlayerToken": "null",
@@ -120,8 +114,8 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
   "DFStringLightstepHTTPTransportUrlHost": "null",
   "DFStringLightstepHTTPTransportUrlPath": "null",
   "DFStringLightstepToken": "null",
-  "DFStringRobloxAnalyticsURL": "null",
-  "DFStringTelegrafAddress": "127.0.0.1",
+  "DFStringRobloxAnalyticsURL": "null"
+  "DFStringTelegrafAddress": "0.0.0.0",
   "DFStringTelegrafHTTPTransportUrl": "null",
   "DFStringTelemetryV2Url": "null",
   "FFlagDebugDisableTelemetryEphemeralCounter": "True",
@@ -158,7 +152,8 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
 }
 ```
 
-## Hide `Beta` Badge
+<!-- TODO: does this even exist anymore? -->
+## Hide VC `Beta` Badge
 
 ```json
 {
@@ -168,5 +163,36 @@ most of these are stolen from [luafv/rbxflags](https://github.com/luafv/rbxflags
   "FFlagBetaBadgeLearnMoreLinkFormview": "False",
   "FFlagControlBetaBadgeWithGuac": "False",
   "FStringVoiceBetaBadgeLearnMoreLink": "null"
+}
+```
+
+### Remove auto translation sys message
+> [!NOTE]
+> `"Roblox automatically translates supported languages in chat."`
+
+```json
+{
+  "FFlagChatTranslationEnableSystemMessage": "False"
+}
+```
+
+### Increased Asset Preloading Count
+
+```json
+{
+  "DFIntNumAssetsMaxToPreload": "10000",
+  "DFIntAssetPreloading": "10000"
+}
+```
+
+## Render Occlusion Culling
+###### [@CloneTrooper1019](https://x.com/MaximumADHD/status/1832331711486865769)
+
+```json
+{
+  "DFFlagUseVisBugChecks": "True",
+  "FFlagEnableVisBugChecks27": "True",
+  "FFlagVisBugChecksThreadYield": "True",
+  "FIntEnableVisBugChecksHundredthPercent27": "100"
 }
 ```
