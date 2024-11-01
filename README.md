@@ -2,6 +2,14 @@
 
 some nice little fflags i use
 
+## Exclusive Fullscreen
+
+```json
+{
+  "FFlagHandleAltEnterFullscreenManually": "False"
+}
+```
+
 ## GUI Hiding
 
 | Key combination  | Action                                                                    |
